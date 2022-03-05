@@ -8,6 +8,9 @@ The application works as a digital flashcard which displays a question and when 
 ### App Walk-though
 <img src="https://imgur.com/cSoTJ2N" width=200><br>
 
+<img src="https://i.imgur.com/cSoTJ2N.gif" width=200><br>
+
+
 ## Required
 - [x] Create New Project in Android Studio
 - [x] Add a view for the front side of the flashcard to display the question
