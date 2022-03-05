@@ -6,8 +6,7 @@
 The application works as a digital flashcard which displays a question and when you click on the question, it displays the answer.
 
 ### App Walk-though
-
-<img src="https://imgur.com/a/gC906UJ" width=200><br>
+<img src="https://imgur.com/cSoTJ2N" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
